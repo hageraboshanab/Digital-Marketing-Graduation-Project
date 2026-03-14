@@ -1,21 +1,30 @@
-### Promotion Strategy
+Digital Marketing Graduation Project – Real Client
+Project Overview
+This project is a graduation requirement for a Digital Marketing course. The project focuses on managing social media accounts for a real client to apply practical digital marketing strategies in a real-world scenario.
 
-The digital marketing strategy will focus on the following platforms:
+Project Type
+Team Project (5 Members)
 
-#### 1. Facebook
-- Creating an official clinic page.
-- Posting educational content about women's health.
-- Running targeted ads for women in Minya.
-- Engaging with local community groups.
+Project Objective
+Apply digital marketing concepts in a real business environment
+Build and execute a structured social media marketing strategy
+Analyze performance and measure results
+Gain hands-on experience working with a real client
+Project Scope
+The project includes:
 
-#### 2. Instagram
-- Sharing visual content such as health tips, reels, and awareness posts.
-- Using stories to increase engagement.
-- Building brand identity through consistent design and tone.
+Social media account analysis
+Content planning and scheduling
+Brand positioning and tone of voice definition
+Performance tracking and reporting
+Platforms
+(To be determined)
 
-#### 3. TikTok
-- Creating short educational videos.
-- Providing simple medical awareness content.
-- Increasing reach through trending formats suitable for the target audience.
+Client Information
+The client is a real business. Client details will be finalized during the project execution phase.
 
-These platforms were selected because they are the most widely used social media channels among the target audience in Minya.
+Team Roles
+Roles and responsibilities will be assigned and documented during the planning phase.
+
+Project Status
+Planning Phase
